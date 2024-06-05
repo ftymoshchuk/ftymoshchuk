@@ -5,4 +5,5 @@ Hi 👋
 - my [artworks](https://ftymoshchuk.gitlab.io/art-page/public/) 🖼 ([old page](https://tymoshchuk.weebly.com/))
 - you can view my badges 🎖 on [page](https://ftymoshchuk.gitlab.io/Ftymoshchuk/public/)
 - 🗺 check out on my [apps](https://apps.apple.com/us/developer/fedir-tymoshchuk/id1527457002) and personal :bee: [project](https://the-green-ways.gitlab.io/swollen/index.html) / [new_version](https://experimental-python-nature.azurewebsites.net)
-- my 💼 [linkedin](https://www.linkedin.com/in/fedir-tymoshchuk-86b682145/)
+- 💼 [linkedin](https://www.linkedin.com/in/fedir-tymoshchuk-86b682145/)
+- 🦊 [gitlab page](https://gitlab.com/ftymoshchuk)
