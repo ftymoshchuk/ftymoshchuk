@@ -7,3 +7,9 @@ Hi 👋
 - 🗺 check out on my [apps](https://apps.apple.com/us/developer/fedir-tymoshchuk/id1527457002) and personal :bee: [project](https://the-green-ways.gitlab.io/swollen/index.html) / [new_version](https://experimental-python-nature.azurewebsites.net)
 - 🦊 [gitlab page](https://gitlab.com/ftymoshchuk)
 - [pip](https://pypi.org/user/fedirek/)
+
+# Agile certifications
+
+| [PSM](https://www.credly.com/badges/afe10666-81f1-46b0-9dcb-6ea7f93c656b/public_url)       | Description | Test Text     |
+|   :----:    |    :----:   |          ---: |
+| ![PSM](assets/professional-scrum-master-i-psm-i.png) | Title       | Here's this   |
