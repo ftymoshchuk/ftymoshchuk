@@ -2,9 +2,9 @@
 
 - 🎯 my learning progres on [pluralsight](https://app.pluralsight.com/profile/fedir-tymoshchuk) / [udemy](https://www.udemy.com/user/fedir-tymoshchuk/)
 - or solved programmatic activities on 🏔 [leetcode](https://leetcode.com/fedirek/) / [hackerrank](https://www.hackerrank.com/ftymoshchuk)
-- my [artworks](https://ftymoshchuk.gitlab.io/art-page/public/) 🖼 ([old page](https://tymoshchuk.weebly.com/))
-- 🗺 check out on my [apps](https://apps.apple.com/us/developer/fedir-tymoshchuk/id1527457002) and personal 🐝 [project](https://the-green-ways.gitlab.io/swollen/index.html) / [new_version](https://experimental-python-nature.azurewebsites.net)
-- 🦊 [gitlab page](https://gitlab.com/ftymoshchuk)
+- my [artworks](https://ftymoshchuk.gitlab.io/art-page/public/) 🖼
+- 🗺 check out on my [apps](https://apps.apple.com/us/developer/fedir-tymoshchuk/id1527457002) and personal 🐝 [project](https://experimental-python-nature.azurewebsites.net)  ([short_link](https://shorturl.at/y5LmM))
+- 🦊 [gitlab](https://gitlab.com/ftymoshchuk)
 - 📦 [pip page](https://pypi.org/user/fedirek/)
 
 ## Agile certifications
@@ -30,3 +30,9 @@
 |[Databricks](https://credentials.databricks.com/a7078afe-28b3-4a25-b37e-5f78a08e74b3)|
 | :----:|
 | ![Databricks](assets/6eb0dae3-fbb1-4e2f-b969-4eeba67591cc.png) |
+
+
+### Legacy
+🐝 [project](https://the-green-ways.gitlab.io/swollen/index.html)
+
+🖼 [old page](https://tymoshchuk.weebly.com/)
