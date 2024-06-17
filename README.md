@@ -7,13 +7,18 @@
 - 🦊 [gitlab](https://gitlab.com/ftymoshchuk)
 - 📦 [pip page](https://pypi.org/user/fedirek/)
 
-## Agile certifications
+# My Leetcode profile
+![https://leetcode.com/u/fedirek/](https://leetcard.jacoblin.cool/fedirek?ext=heatmap)
+
+# My certifications
+
+## Agile
 
 | [PSM](https://www.credly.com/badges/afe10666-81f1-46b0-9dcb-6ea7f93c656b/public_url) | [PSK](https://www.credly.com/badges/944ee8d5-6994-492d-9a23-732cca9918e4/public_url) | [SPS](https://www.credly.com/badges/6ee7570d-37e8-42c7-8494-3eb525d1c4b3/public_url) |
 | :----: | :----: | :---: |
 | ![PSM](assets/agile/professional-scrum-master-i-psm-i.png) | ![PSK](assets/agile/professional-scrum-with-kanban-i-psk-i.png) | ![SPS](assets/agile/scaled-professional-scrum-sps.png)|
 
-## GitLab certifications
+## GitLab
 
 | [Git Associate](https://www.credly.com/badges/d0aa978a-44ba-4bd5-91d5-a43469ef3d2a/public_url) | [CI/CD Associate](https://www.credly.com/badges/5b6236a2-2159-4417-b20f-96363e0aa212/public_url) |
 | :----:| :----:|
@@ -36,3 +41,7 @@
 🐝 [project](https://the-green-ways.gitlab.io/swollen/index.html)
 
 🖼 [old page](https://tymoshchuk.weebly.com/)
+
+### Big thank you
+
+https://github.com/JacobLinCool/LeetCode-Stats-Card
