@@ -7,8 +7,8 @@
 - 🦊 [gitlab](https://gitlab.com/ftymoshchuk)
 - 📦 [pip page](https://pypi.org/user/fedirek/)
 
-# My Leetcode profile
-![https://leetcode.com/u/fedirek/](https://leetcard.jacoblin.cool/fedirek?ext=heatmap)
+# My [Leetcode](https://leetcode.com/u/fedirek/) profile
+![](https://leetcard.jacoblin.cool/fedirek?ext=heatmap)
 
 # My certifications
 
