@@ -1,7 +1,6 @@
 # Hi, I'm Fedir 👋
 
 - 🎯 my learning progres on [pluralsight](https://app.pluralsight.com/profile/fedir-tymoshchuk) / [udemy](https://www.udemy.com/user/fedir-tymoshchuk/)
-- or solved programmatic activities on 🏔 [leetcode](https://leetcode.com/fedirek/) / [hackerrank](https://www.hackerrank.com/ftymoshchuk)
 - my [artworks](https://ftymoshchuk.gitlab.io/art-page/public/) 🖼
 - 🗺 check out on my [apps](https://apps.apple.com/us/developer/fedir-tymoshchuk/id1527457002) and personal 🐝 [project](https://experimental-python-nature.azurewebsites.net)  ([short_link](https://shorturl.at/y5LmM))
 - 🦊 [gitlab](https://gitlab.com/ftymoshchuk)
@@ -36,12 +35,13 @@
 | :----:|
 | ![Databricks](assets/6eb0dae3-fbb1-4e2f-b969-4eeba67591cc.png) |
 
+### Big thank you
+
+https://github.com/JacobLinCool/LeetCode-Stats-Card
 
 ### Legacy
 🐝 [project](https://the-green-ways.gitlab.io/swollen/index.html)
 
+solved programmatic activities on 🏔 [leetcode](https://leetcode.com/fedirek/) / [hackerrank](https://www.hackerrank.com/ftymoshchuk)
+
 🖼 [old page](https://tymoshchuk.weebly.com/)
-
-### Big thank you
-
-https://github.com/JacobLinCool/LeetCode-Stats-Card
