@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about continuous learning, coding, and creativity. Here's a little more about me and what I do:
 
 ## 🎯 My Learning Progress
-I am committed to expanding my knowledge and skills through various online platforms. You can check out my learning journey and progress on [Pluralsight](https://app.pluralsight.com/profile/fedir-tymoshchuk) and [Udemy](https://www.udemy.com/user/fedir-tymoshchuk/).
+I am committed to expanding my knowledge and skills through various online platforms. You can check out my learning journey and progress on [Pluralsight](https://app.pluralsight.com/profile/fedir-tymoshchuk), [Udemy](https://www.udemy.com/user/fedir-tymoshchuk/), and [FreeCodeCamp](https://www.freecodecamp.org/FedirT).
 
 ## 🎨 My Artworks
 Apart from coding, I love expressing myself through art. Feel free to explore my [artworks](https://ftymoshchuk.gitlab.io/art-page/public/), where I showcase my creative side.
