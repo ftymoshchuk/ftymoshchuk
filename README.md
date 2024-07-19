@@ -37,7 +37,7 @@ I have achieved the following GitLab certifications:
 
 ## Azure
 I hold several Microsoft Azure certifications:
-|[SC-900](https://learn.microsoft.com/api/credentials/share/en-us/FedirTymoshchuk-3741/85E19DD8E6E0C0E2?sharingId=98FBD8F94B8F8437)| [AI-900](https://learn.microsoft.com/api/credentials/share/en-us/FedirTymoshchuk-3741/25B9AFA440DD838A?sharingId=98FBD8F94B8F8437) | [DP-900](https://learn.microsoft.com/api/credentials/share/en-us/FedirTymoshchuk-3741/EA77A7D2A86E9ACB?sharingId=98FBD8F94B8F8437) | [SC-900](https://learn.microsoft.com/api/credentials/share/en-us/FedirTymoshchuk-3741/2C32EDE76F871C6B?sharingId=98FBD8F94B8F8437)
+|[AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/FedirTymoshchuk-3741/85E19DD8E6E0C0E2?sharingId=98FBD8F94B8F8437)| [AI-900](https://learn.microsoft.com/api/credentials/share/en-us/FedirTymoshchuk-3741/25B9AFA440DD838A?sharingId=98FBD8F94B8F8437) | [DP-900](https://learn.microsoft.com/api/credentials/share/en-us/FedirTymoshchuk-3741/EA77A7D2A86E9ACB?sharingId=98FBD8F94B8F8437) | [SC-900](https://learn.microsoft.com/api/credentials/share/en-us/FedirTymoshchuk-3741/2C32EDE76F871C6B?sharingId=98FBD8F94B8F8437)
 | :----:| :----:| :----:| :----:|
 | ![SC-900](assets/microsoft-certified-fundamentals-badge-2.png)| ![AI-900](assets/microsoft-certified-fundamentals-badge-2.png) | ![DP-900](assets/microsoft-certified-fundamentals-badge-2.png) | ![SC-900](assets/microsoft-certified-fundamentals-badge-2.png) |
 
