@@ -17,7 +17,10 @@ I also maintain a presence on GitLab. Check out my repositories and contribution
 ## 📦 My Contributions to the Python Community
 I have published several packages on PyPI. Visit my [pip page](https://pypi.org/user/fedirek/) to see my contributions.
 
-# My [Leetcode](https://leetcode.com/u/fedirek/) Profile
+## ✨ Explore My Prompts
+I also create and sell custom prompts for AI tools. You can explore and purchase my prompts on [PromptBase](https://promptbase.com/profile/felinecanvas).
+
+## My [Leetcode](https://leetcode.com/u/fedirek/) Profile
 Here is a snapshot of my Leetcode profile, showcasing my problem-solving skills and progress:
 ![](https://leetcard.jacoblin.cool/fedirek?ext=heatmap)
 
