@@ -42,7 +42,7 @@ I have achieved the following GitLab certifications:
 I hold several Microsoft Azure certifications:
 
 
-|[AI-102](https://learn.microsoft.com/en-gb/users/fedirtymoshchuk-3741/credentials/certification/azure-ai-engineer) |
+|[AI-102](https://learn.microsoft.com/api/credentials/share/en-us/FedirTymoshchuk-3741/16DB3CA1755C9FF3?sharingId=98FBD8F94B8F8437)|
 | :----:|
 | ![AI-102](assets/converted_badge.png)|
 
