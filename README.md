@@ -26,6 +26,11 @@ Here is a snapshot of my Leetcode profile, showcasing my problem-solving skills 
 
 # My Certifications
 
+
+| [UBS Certified Engineer](https://www.credly.com/badges/817f9022-2714-4019-83ce-d866ede8eccb/public_url) |
+| :----: |
+| ![PSM](assets/ubs-certified-engineer.png) |
+
 ## Agile
 I am certified in various Agile methodologies:
 | [PSM](https://www.credly.com/badges/afe10666-81f1-46b0-9dcb-6ea7f93c656b/public_url) | [PSK](https://www.credly.com/badges/944ee8d5-6994-492d-9a23-732cca9918e4/public_url) | [SPS](https://www.credly.com/badges/6ee7570d-37e8-42c7-8494-3eb525d1c4b3/public_url) |
